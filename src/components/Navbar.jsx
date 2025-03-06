@@ -1,5 +1,6 @@
+import { FaCodeMerge } from "react-icons/fa6";
 import logo from "../assets/nileshShivpujeLogo.png";
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram, FaHackerrank, FaCode, FaCodeBranch, FaFileCode } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -18,6 +19,18 @@ const Navbar = () => {
           className="cursor-pointer"
           onClick={() =>
             window.open("https://www.github.com/NilShiv/", "_blank")
+          }
+        />
+        <FaHackerrank
+          className="cursor-pointer"
+          onClick={() =>
+            window.open("https://www.hackerrank.com/profile/nilshiv000", "_blank")
+          }
+        />
+        <FaCode
+          className="cursor-pointer"
+          onClick={() =>
+            window.open("https://leetcode.com/u/Nil_Shiv_/", "_blank")
           }
         />
         <FaInstagram

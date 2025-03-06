@@ -12,11 +12,12 @@ const Technologies = () => {
         </span>
       </h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
-        <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#dd1b16] to-[#a6120d]">
-          <RiAngularjsLine className="text-7xl text-white" />
-        </div>
+        
         <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#f89820] to-[#5382a1]">
           <DiJava className="text-7xl text-white" />
+        </div>
+        <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#00758f] to-[#f29111]">
+          <SiMysql className="text-7xl text-white" />
         </div>
         <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#60af02] to-[#0c6301]">
           <SiSpring className="text-7xl text-white" />
@@ -24,8 +25,8 @@ const Technologies = () => {
         <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#0d6efd] to-[#6610f2]">
           <FaBootstrap className="text-7xl text-white" />
         </div>
-        <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#00758f] to-[#f29111]">
-          <SiMysql className="text-7xl text-white" />
+        <div className="rounded-2xl border-4 border-neutral-600 p-4 bg-gradient-to-b from-[#dd1b16] to-[#a6120d]">
+          <RiAngularjsLine className="text-7xl text-white" />
         </div>
       </div>
     </div>

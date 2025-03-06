@@ -3,9 +3,13 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Experienced Java Full Stack Developer with 2 years of expertise in designing, developing, and deploying scalable and high-performance web applications using Java, Spring Boot, and Angular. Adept at building RESTful APIs, implementing microservices architecture, and integrating relational databases. Passionate about writing clean, efficient, and maintainable code while collaborating with cross-functional teams to deliver high-quality software solutions.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am an experienced Java Full Stack Developer with 2 years of expertise in designing, developing, and deploying scalable, high-performance web applications. My technical proficiency lies in Java, Spring Boot, and MySQL, where I specialize in building RESTful APIs, implementing authentication and authorization using Spring Security, and optimizing database interactions for efficiency and reliability.
+
+I have hands-on experience in developing dynamic and responsive front-end applications using Angular, ensuring seamless integration with backend services. My work in microservices architecture allows me to create modular, maintainable, and scalable applications. With a strong foundation in software development best practices, Agile methodologies, and DevOps principles, I focus on delivering clean, efficient, and well-documented code.
+
+Beyond coding, I am passionate about problem-solving, continuous learning, and collaborating with cross-functional teams to develop innovative solutions. I am actively seeking challenging opportunities where I can leverage my skills to contribute to impactful projects and drive business success. If you're looking for a dedicated and adaptable developer to join your team, let's connect! 🚀`;
 
 export const EXPERIENCES = [
   {
