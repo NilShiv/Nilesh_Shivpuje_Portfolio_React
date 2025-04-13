@@ -6,7 +6,7 @@ const About = () => {
     <div className="border-b border-neutral-900 pb-8 lg:mb-35">
       <h1 className="my-20 text-center text-4xl">
         <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
-          About Me
+          About
         </span>
       </h1>
       <div className="flex flex-wrap">
